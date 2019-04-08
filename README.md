@@ -1,6 +1,8 @@
 # mt-app
 
 > A Vue.js project
+本项目只是简单的实现了美团的首页、列表页、城市选择、登录、注册等页面。
+项目中使用了vue、vuex、router、axios、element ui等技术。
 
 ## Build Setup
 
