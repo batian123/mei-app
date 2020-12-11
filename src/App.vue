@@ -2,6 +2,7 @@
   <div id="app">
     <router-view/>
     <span>hhhh</span>
+    <span>我又添加了</span>
   </div>
 </template>
 
