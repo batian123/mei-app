@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <router-view/>
+    <span>我是主支</span>
   </div>
 </template>
 
