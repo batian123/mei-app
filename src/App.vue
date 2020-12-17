@@ -2,6 +2,7 @@
   <div id="app">
     <router-view/>
     <span>我是主支</span>
+    <span>主支啊啊啊</span>
   </div>
 </template>
 
