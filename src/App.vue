@@ -3,6 +3,8 @@
     <router-view/>
     <span>我是主支</span>
     <span>主支啊啊啊</span>
+    <span>hhhh</span>
+    <span>我又添加了</span>
   </div>
 </template>
 
