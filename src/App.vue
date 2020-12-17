@@ -3,6 +3,7 @@
     <router-view/>
     <span>hhhh</span>
     <span>我又添加了</span>
+    <span>dev新加的哈哈哈</span>
   </div>
 </template>
 
